@@ -3,7 +3,10 @@ form {
   flex-direction: column;
   border: 2px solid black;
   border-radius: 8px;
-  width: 400px;
+  width: 300px;
   align-items: center;
-  padding: 30pxs;
+  padding: 3px;
+}
+label {
+  margin: 0 auto;
 }
